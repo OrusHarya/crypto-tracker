@@ -34,3 +34,4 @@ class TaskHandler:
             print("Ключ отсутствует в спискезаданий")
         if update:
             run_js('location.reload()')
+"wqweqweqweqwe"
